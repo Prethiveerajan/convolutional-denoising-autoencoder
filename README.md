@@ -99,7 +99,7 @@ plt.show()
 
 ### Parameters for the Model
 
-![output](parm.pngpng)
+![output](parm.png)
 ### Original vs Noisy Vs Reconstructed Image
 
 ![output](p1.png)
