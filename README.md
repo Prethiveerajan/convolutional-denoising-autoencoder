@@ -99,10 +99,10 @@ plt.show()
 
 ### Parameters for the Model
 
-![output](summ.png)
+![output](parm.pngpng)
 ### Original vs Noisy Vs Reconstructed Image
 
-![output](outtt.png)
+![output](p1.png)
 
 
 ## RESULT
